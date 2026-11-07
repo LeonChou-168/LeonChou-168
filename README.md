@@ -10,6 +10,11 @@
 终极井字棋变体的 Web 实现：规则引擎与 UI 分离、Vitest 用例、Socket.io 联机服务端与部署文档。  
 `React` `TypeScript` `Vite` `Socket.io` · [在线试玩](https://leonchou-168.github.io/Ultimate-Tic-Tac-Toe-Variant/)
 
+### [Manhattan Project Skill](https://github.com/LeonChou-168/manhattan-project-skill)
+
+把曼哈顿工程的组织方法做成 AI skill：23 张档案证据卡 + 八段工作流 + 可复制文书模板（Cursor / Claude Skill）。  
+`AI Skill` `Prompt Engineering` `Research`
+
 ### [DoroPet macOS](https://github.com/LeonChou-168/doropet-mac)
 
 [DoroPet_V3](https://gitee.com/waterfeet/DoroPet_V3) 的 macOS Apple Silicon 移植：适配脚本、PyInstaller 打包、依赖与权限调整。  
